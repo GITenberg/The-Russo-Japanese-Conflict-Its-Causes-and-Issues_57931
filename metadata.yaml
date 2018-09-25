@@ -1,5 +1,5 @@
 _repo: The-Russo-Japanese-Conflict-Its-Causes-and-Issues_57931
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Williams, Frederick Wells
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '39258'
     url: http://www.gutenberg.org/2009/agents/39258
+covers:
+- cover_type: archival
+  image_path: 57931-h/images/cover.jpg
 creator:
   author:
     agent_name: Asakawa, K.
     gutenberg_agent_id: '49691'
     url: http://www.gutenberg.org/2009/agents/49691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57931#The-Russo-Japanese-Conflict-Its-Causes-and-Issues
 gutenberg_issued: '2018-09-18'
 gutenberg_type: Text
 identifiers:
